@@ -1,5 +1,5 @@
 //Lucas Teixeira Ronchi 3-52
-//Página 33 da apostila de Java
+//Exercício 2 da página 33
 //Imprimir números primos de 1 a 123
 
 public class Ex_2 { 

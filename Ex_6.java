@@ -1,5 +1,5 @@
 //Lucas Teixeira Ronchi 3-52
-//Página 33 da apostila de Java
+//Exercício 6 página 33
 //Converter de quilos para libras e vice-versa
 
 import java.util.Scanner; //Importar Scanner

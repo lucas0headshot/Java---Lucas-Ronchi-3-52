@@ -1,5 +1,5 @@
 //Lucas Teixeira Ronchi 3-52
-//Página 33 da apostila de Java
+//Exercício 1 da página 33
 //Somar os números ímpares entre 0 e 30
 //Multiplicar os pares entre 0 e 30
 

@@ -1,5 +1,5 @@
 //Lucas Teixeira Ronchi 3-52
-//Página 26 da apostila de Java
+//Exercícios 1 e 2 da página 26
 //Calcular a área de um trapézio
 //Arrendodar o valor para inteiro
 
