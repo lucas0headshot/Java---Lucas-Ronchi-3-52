@@ -1,6 +1,6 @@
-//Lucas Teixeira Ronchi 3-52
-//Exercícios 4 e 5 da página 33
-//Calcular o salário usando como base o valor da hora de trabalho e mutiltiplicando pela quantidade de horas trabalhadas
+/*Lucas Teixeira Ronchi 3-52
+Exercícios 4 e 5 da página 33
+Calcular o salário usando como base o valor da hora de trabalho e mutiltiplicando pela quantidade de horas trabalhadas*/
 
 import java.util.Scanner; //Importar Scanner
 

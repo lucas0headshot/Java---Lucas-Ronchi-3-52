@@ -1,7 +1,7 @@
-//Lucas Teixeira Ronchi 3-52
-//Exercícios 1 e 2 da página 26
-//Calcular a área de um trapézio
-//Arrendodar o valor para inteiro
+/*Lucas Teixeira Ronchi 3-52
+Exercícios 1 e 2 da página 26
+Calcular a área de um trapézio
+Arrendodar o valor para inteiro*/
 
 import java.util.Scanner; //Importar Scanner
 

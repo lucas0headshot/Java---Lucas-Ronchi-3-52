@@ -1,6 +1,6 @@
-//Lucas Teixeira Ronchi 3-52
-//Exercício 3 da página 26
-//Calcular o valor das equações
+/*Lucas Teixeira Ronchi 3-52
+Exercício 3 da página 26
+Calcular o valor das equações*/
 
 public class Ex_3 {
 

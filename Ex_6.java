@@ -1,6 +1,6 @@
-//Lucas Teixeira Ronchi 3-52
-//Exercício 6 página 33
-//Converter de quilos para libras e vice-versa
+/*Lucas Teixeira Ronchi 3-52
+Exercício 6 página 33
+Converter de quilos para libras e vice-versa*/
 
 import java.util.Scanner; //Importar Scanner
 

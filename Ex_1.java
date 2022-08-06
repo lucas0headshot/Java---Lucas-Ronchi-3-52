@@ -1,7 +1,7 @@
-//Lucas Teixeira Ronchi 3-52
-//Exercício 1 da página 33
-//Somar os números ímpares entre 0 e 30
-//Multiplicar os pares entre 0 e 30
+/*Lucas Teixeira Ronchi 3-52
+Exercício 1 da página 33
+Somar os números ímpares entre 0 e 30
+Multiplicar os pares entre 0 e 30*/
 
 public class Ex_1 {
     public static void main(String[] args){
@@ -10,10 +10,12 @@ public class Ex_1 {
         int num;
       
         for(num = 0; num <= 30; num++) { //For para verificar, somar ou multiplicar
-          if((num % 2 == 1)) { //Se o número dividido por 2 for 1
+          if(num % 2 == 1) { //Se o número dividido por 2 for 1
             totalImpar += num; //Soma se o número for ímpar
           }else{
-            totalPar *= num; //Multiplica se o número for par
+            if (num > 0){
+              totalPar *= num; //Multiplica se o número for par
+            }
           }
        }        
        System.out.println("Multiplicação dos pares: " + totalPar);
